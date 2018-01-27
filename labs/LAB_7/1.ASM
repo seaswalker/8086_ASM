@@ -93,6 +93,3 @@ start: mov ax,data
 code ends
 
 end start
-
- 
-
