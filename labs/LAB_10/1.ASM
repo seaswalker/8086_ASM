@@ -28,7 +28,7 @@ show_str: push cx
           mov ax, 0b800h
           mov es, ax
           
-          ;address = (dh - 1) * 160 + dh * 2
+          ;address = (dh - 1) * 160 + dl * 2
           mov al, dh
           mov bl, 160
           mul bl
