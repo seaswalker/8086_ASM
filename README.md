@@ -8,4 +8,8 @@
 
 ## 实验10-1
 
-![lab 10](images/lab_10_1.png)
+![lab 10.1](images/lab_10_1.png)
+
+## 实验10-3
+
+![lab 10.3](images/lab_10_3.png)
